@@ -2,4 +2,3 @@ pandas
 sqlalchemy 
 psycopg2-binary
 flask
-$#fKcdXPg4@ue8AW
