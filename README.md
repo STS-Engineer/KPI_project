@@ -11,7 +11,7 @@
 python api_server.py
 ```
 
-2. Process data from Excel files to database:
+2. Process data to database:
 ```bash
 python process_data_to_db.py
 ```
